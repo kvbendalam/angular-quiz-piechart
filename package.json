@@ -32,7 +32,7 @@
     "ng2-charts": "^2.0.4",
     "ng2-nvd3": "^2.0.0",
     "rxjs": "^6.0.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.14.0"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.0",

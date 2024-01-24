@@ -28,7 +28,7 @@
     "crypto-js": "^3.1.9-1",
     "igniteui-angular-charts": "^7.2.0",
     "igniteui-angular-core": "^7.2.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ng2-charts": "^2.0.4",
     "ng2-nvd3": "^2.0.0",
     "rxjs": "^6.0.0",
